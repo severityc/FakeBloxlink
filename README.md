@@ -3,11 +3,11 @@
     Simple fake Bloxlink Discord bot that has a <b>direct message</b> "verification system." <b>(EDUCATIONAL PURPOSES ONLY)</b>
     <br />
     <br />
-<a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
+    <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
     ·
-    <a href="https://replit.com/@severitylol16/FakeBloxlink">🤖 Replit</a>
+    <a href="https://replit.com/@severitylol16/FakeBloxlink" target="_blank">🤖 Replit</a>
     ·
-    <a href="#">📺 YouTube Tutorial @ 10 stars</a>
+    <a href="https://rentry.co/osv7u" target="_blank">📺 YouTube Tutorial</a>
   </p>
 </div>
 
