@@ -1,6 +1,6 @@
   <h2 align="center">FakeBloxlink</h2>
   <p align="center">
-    Simple fake Bloxlink Discord bot that has a **direct message** "verification system." **(EDUCATIONAL PURPOSES ONLY)**
+    Simple fake Bloxlink Discord bot that has a <b>direct message</b> "verification system." <b>(EDUCATIONAL PURPOSES ONLY)**</b>
     <br />
     <br />
     <a href="https://replit.com/@severitylol16/FakeBloxlink">🤖 Replit</a>
