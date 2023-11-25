@@ -1,5 +1,5 @@
 # FakeBloxlink
-Fake Bloxlink Verification. **(EDUCATIONAL PURPOSES ONLY**
+Fake Bloxlink Verification. **(EDUCATIONAL PURPOSES ONLY)**
 
 # Usage
 1. Create a Discord bot at https://www.discord.com/developers
