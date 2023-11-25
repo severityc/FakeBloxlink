@@ -4,9 +4,9 @@
     <br />
     <br />
     <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
-    ·
+    -
     <a href="https://replit.com/@severitylol16/FakeBloxlink" target="_blank">🤖 Replit</a>
-    ·
+    -
     <a href="https://rentry.co/osv7u" target="_blank">📺 YouTube Tutorial</a>
   </p>
 </div>
