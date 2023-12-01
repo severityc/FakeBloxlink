@@ -1,6 +1,7 @@
   <h2 align="center">FakeBloxlink</h2>
   <p align="center">
-    Simple fake Bloxlink Discord bot that has a <b>direct message</b> verification system <b>(EDUCATIONAL PURPOSES ONLY)</b>
+    Simple fake Bloxlink Discord bot that has a <b>direct message</b> verification system 
+    <b>(EDUCATIONAL PURPOSES ONLY)</b>
     <br />
     <br />
     <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
