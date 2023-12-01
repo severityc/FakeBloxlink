@@ -1,3 +1,5 @@
+![39774496](https://github.com/Severitylol/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a)
+  
   <h2 align="center">FakeBloxlink</h2>
   <p align="center">
     Fake Bloxlink Discord bot that has a <b>DM</b> verification system
@@ -20,5 +22,3 @@
 
 # ⚠️ Disclaimer
 This code has been made exclusively for **EDUCATIONAL PURPOSES ONLY.** Please note that I disclaim any responsibility for the utilization of this code.
-
-![39774496](https://github.com/Severitylol/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a)
