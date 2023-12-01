@@ -7,9 +7,9 @@
   Fake Bloxlink Discord bot that has a <b>DM</b> verification system
   <br />
   <br />
-  <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
+  <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">Github</a>
   -
-  <a href="https://replit.com/@severitylol16/FakeBloxlink" target="_blank">🤖 Replit</a>
+  <a href="https://replit.com/@severitylol16/FakeBloxlink" target="_blank">Replit</a>
 </p>
 </div>
 
