@@ -19,6 +19,6 @@
 7. Set up a verify channel, instructing users to use `!verify` for a DM with your Bloxlink verification link
 
 # ⚠️ Disclaimer
-This code has been made exclusively for **EDUCATIONAL PURPOSES ONLY.** Please note that I disclaim any responsibility for the utilization of this code. I am committed to maintaining and updating the code as the associated API evolves and potentially becomes deprecated over time.
+This code has been made exclusively for **EDUCATIONAL PURPOSES ONLY.** Please note that I disclaim any responsibility for the utilization of this code.
 
 ![39774496](https://github.com/Severitylol/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a)
