@@ -1,7 +1,6 @@
   <h2 align="center">FakeBloxlink</h2>
   <p align="center">
     Fake Bloxlink Discord bot that has a <b>DM</b> verification system
-    <b>(EDUCATIONAL PURPOSES ONLY)</b>
     <br />
     <br />
     <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">👀 Github</a>
@@ -14,7 +13,7 @@
 
 # ⚙️ Setup
 
-1. Create a Discord bot: https://discord.com/developers
+1. Create a Discord application: https://discord.com/developers
 2. In the developer portal, make sure that all **Privledged Gateway Intents** are enabled
 3. Copy the bot token and put it where it says `'YOUR_BOT_TOKEN'` via [main.py](https://github.com/Severitylol/FakeBloxlink/blob/main/main.py)
 4. Edit the Settings in the code and run the bot
@@ -29,6 +28,5 @@ Type ```pip install -r requirements.txt``` in the directory of the folder or in 
 - **Direct Message** embed "verification" command: `!verify`
 
 # ⚠️ Disclaimer
-This code is meant to be used for educational purposes only. I am not responsible for what other people decide to do with the code. I will not be helping others in setting this up because it is so simple, but I will be updating the code as the api becomes deprecated over time.
-
+This code has been made exclusively for **EDUCATIONAL PURPOSES ONLY.** Please note that I disclaim any responsibility for the utilization of this code. While I won't provide assistance in setting it up due to its simplicity, I am committed to maintaining and updating the code as the associated API evolves and potentially becomes deprecated over time.
 ![39774496](https://github.com/Severitylol/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a)
