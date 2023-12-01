@@ -11,7 +11,7 @@
   </p>
 </div>
 
-# ⚙️ Setup
+# ⚙️ Installation
 1. Type ```pip install -r requirements.txt``` in the directory of the folder or in the terminal/shell
 2. Create a Discord application at https://discord.com/developers
 3. Enable all Privileged Gateway Intents in the developer portal
