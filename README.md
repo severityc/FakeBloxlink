@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Severitylol/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a" alt="39774496">
+  <img src="https://github.com/severityc/FakeBloxlink/assets/146803465/f356ed6d-3be2-4a8e-8dc8-c4508820ec6a" alt="39774496">
 </div>
 
 <h2 align="center">FakeBloxlink</h2>
@@ -7,7 +7,7 @@
   Fake Bloxlink Discord bot that has a <b>DM</b> verification system
   <br />
   <br />
-  <a href="https://github.com/Severitylol/FakeBloxlink.git" target="_blank">Github</a>
+  <a href="https://github.com/severityc/FakeBloxlink.git" target="_blank">Github</a>
   -
   <a href="https://replit.com/@severitylol16/FakeBloxlink" target="_blank">Replit</a>
 </p>
@@ -17,7 +17,7 @@
 1. ```pip install -r requirements.txt``` in the directory of the folder or in the terminal/shell
 2. Create a Discord application at https://discord.com/developers
 3. Enable all **Privileged Gateway Intents** in the developer portal
-4. Replace `"YOUR_BOT_TOKEN"` in [main.py](https://github.com/Severitylol/FakeBloxlink/blob/main/main.py) with your bot token
+4. Replace `"YOUR_BOT_TOKEN"` in [main.py](https://github.com/severityc/FakeBloxlink/blob/main/main.py) with your bot token
 5. Edit code settings and run the bot
 6. Add the bot to your server with administrator permissions
 7. Set up a verify channel, instructing users to use `!verify` for a DM with your Bloxlink verification link
